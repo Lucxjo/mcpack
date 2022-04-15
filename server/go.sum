@@ -1,2 +1,6 @@
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/lucxjo/mcpack/shared v0.0.0-20220415171840-65df70f9f1b0 h1:H7JPNqiZIbYcXi+Cb8dFhbJnMbkaPTzL/mw9Z4PDqNs=
+github.com/lucxjo/mcpack/shared v0.0.0-20220415171840-65df70f9f1b0/go.mod h1:dYiTQT4m3VwyZa4ogoVGQDqtcY49LngeAh4W0QZbsMk=
+github.com/mattn/go-sqlite3 v1.14.12 h1:TJ1bhYJPV44phC+IMu1u2K/i5RriLTPe+yc68XDJ1Z0=
+github.com/mattn/go-sqlite3 v1.14.12/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
